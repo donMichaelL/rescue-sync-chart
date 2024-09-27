@@ -29,6 +29,6 @@ entries:
     name: rescue-sync
     type: application
     urls:
-    - https://github.com/donMichaelL/rescue-sync-chart/rescue-sync/rescue-sync-0.1.0.tgz
+    - https://github.com/donMichaelL/rescue-sync-chart/rescue-sync-0.1.0.tgz
     version: 0.1.0
 generated: "2024-09-27T13:58:13.490257328+03:00"
